@@ -1,0 +1,34 @@
+Da SEOTIONE OYLINDRI. 55
+
+XVIII.
+
+Si in sectione cylindri diametri sunt coniugatae,
+et fit, ut altera diametrus ad diametrum, ita diametrus
+ad aliam, quaecunque a sectione ad alteram diametrum
+ordinate ducitur, quadrata aequalis erit spatio tertiae
+proportionali adplicato latitudinem habenti rectam ab
+ipsa recta ordinate ducta ad sectionem abscisam
+deficienti spatio simili rectangulo comprehenso ab
+altera diametro tertiaque proportionali, quam
+sumpsimus.
+
+sit sectio cylindri, fiatque, ut altera diametrus
+ΓΛ ad diametrum AB, ita AB : ΓΗ, et ΓΗ ad ΓΛ
+perpendicularis ponatur, duceturque AH, ad ΓΔ
+
+autem ordinate ducatur ΕΖ et rectae ΓΗ parallelo
+ΖΘ, ΓΔ autem rectae ΘΚ. dico, esse EZ2 = ΓΘ.
+
+quoniam enim [Eucl. V def. 9]
+ΓΔ : rH= 121²: ΑΒ2 = ΛΖ : ΖΘ [Eucl. VI, 4]‚
+et PA22A132 ==Az>< ZF:EZ²
+(hacc enim demonstrata sunt) [prop. XVI], et
+AZ: ΖΘ == ΔΖ ΧΖΓεΘΖΧΖΓι-ΔΖΧΖΓεΓΘ,
+
+κ*
+
+, ln Vp linea ΕΖΘ recta est, PKH diametro AB parallelo,
+¹1¹ p ΓΔ ad ΑΒ perpendicularis.
+
+ 
+

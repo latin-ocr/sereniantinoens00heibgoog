@@ -1,0 +1,40 @@
+. nn sacriora crummu. 29
+
+igitur secans aut basim quoque utramq'ue secat aut
+alteram aut neutram. iam primum neutram secet
+efficiatque in superficie cylindri lineam ΓΕΔ. dico,
+lineam ΓΕΔ neque circulum esse neque figuram
+rectilineum.
+
+iam rectilineam figuram eam non esse, adparet.
+nam, si fieri potest, sit figura rectilinea, sumaturque
+latus aliquod cius PE. quoniam igitur in superficie
+cylindri duo puncta sumpta sunt Γ, E non iu eodem
+latere cylindri posita (latus enim talem lineam in
+duobus punctis non secat), recta puncta Γ, Ε con-
+iungens in superficie cylindri est3 quod demonstrauimus
+fieri non posse [prop. VIII} itaque linea ΓΕ recta
+non est3 ergo figura ΓΕΔ rectilinea non est.
+
+iam demonstrandum, ne circulum quidem eam
+esse.
+
+quoniam enim planum sectionis ΓΕΔ plano cir·
+culi A parallelum non est, producta plana inter se
+secabunt. secent, sitque communis eorum sectio ZH,
+et per A centrum ad ZH perpendicularis ducatur
+ΘΑ Η, per uA autem axemque planum ducatur
+sectionem efficiens in cylindro parallelogrammum ΘΚ,
+in ΓΕΔ autem sectione rectam ΓΔ, et recta ΓΔ in
+A in duas partes aequales secta rectae ΖΗ parallelae
+ducantur per A recta EAM, per A autem ’ΝΑΞ;
+itaque ME, N Ξ inter se parallelae sunt [Eucl. XI, 9].
+per EM igitur planum basi cylindri parallelum ducatur
+in cylindro sectionem efficiens OEIIM3 itaque sectio
+OEII circulus est, cuius diametrus est ΟΠ [prop. V]
+
+in A in duas partes aequales secta. quoniam enim
+in triangulis similibus ΛΟΓ, A HA est ΓΛ = AA,
+
+ 
+

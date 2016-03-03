@@ -1,0 +1,42 @@
+, ns sscmoun cour. 251
+
+quoniam ΚΑ Ζ : ΓΑΔ = BA: ΑΗ [cfr. Eucl. V1,1],
+et ΕΑΖ : ΓΑΔ = PAA: ΘΑΚ, erit etiam
+
+PAA: cAK=nA:AH.
+uerum
+
+ΓΑΔ : eAn= nz: en [nuel. VI, 1] = nn: ΚΗ,
+
+· quare etiam BA :AH=BK ι KH, et trianguli BAH,
+Β ΚΗ similes sunt ct correspondentia latera ΑΒ, ΒΚ
+[Eucl. V1,4]. ergo AB radio ,ΒΚ aequalis cst¹);
+quod erat propositum. ¹
+
+Et simul per utramque demonstrationem [propp.
+L-Ll] demonstratum est, triangulos EAZ, ΘΑΚ
+similes essc3 nam EZ: ΘΚ = BA: AH. praeterea
+[Eucl. V def. 9] EA Z: ΘΑΚ = PAA2: MK? est
+autem ΓΑΔ εΘΑΚ =FA :un =u22 ΘΚ; quare ι
+ΕΑΖ : ΘΑΚ duplicatam rationem habet, quam latera
+correspondentia Ε Z: ΘΚ. ergo trianguli EA Z, ΘΑΚ
+similes sunt [Eucl. VI, 19]. itaque manifestum est, si
+coni scaleni axis radio basis aequalis sit, triangulum
+aequicrurium ad basim perpendicularem similem csse
+aequicrurio per arem duct03 et conuertenda, si trian-
+ffrlus aequicrurius ad basim perpendicularis similis
+sit aequicruris per axem duct0, axem coni radio basis
+aequalem fore3 nam hoc quoque ex iis, quae iam
+demonstrauimus, facile intellegitur.
+
+--—..-—-
+
+1) Nam latus correspondens BH commune est.
+
+corr. exEAH inscrib.V. 15. ὡς (alt) cm. p. 16. ΘΚ
+decern. p. 19. lucc} ochp, corr. alley. 20. βάσεως
+’ βάσεως ἴσος p. 23. σος ta] sustulit lacuna in c, ut alia
+plura in seq.
+
+ 
+

@@ -1,0 +1,44 @@
+nn sncmonn cour. 211
+
+quoniam parallelae sunt ΒΓ, Δ Ζ et ad ΒΖ per-
+pendiculares, A Z autem non minor quam ΓΒ, [ Δ ΓΒ
+non minor est rcct03 itaque ΑΔ > ΑΓ [Eucl. Ι, 19].
+et quoniam ΑΒΓ rectaugulus est, in semicirculo est,
+cuius diametrus est A Γ [Eucl. ΠΙ, 31]; semicir-
+culus igitur descriptus rectam ΑΛ secabit. secet
+igitur in Ε, ducaturquc ΕΒ; itaque [Eucl. ΠΙ, 27]
+[Anna-Aru. uerum [ΑΕΒ>ΑΔΒ [Eucl. 1,16];
+ergo etiam [ΑΓΒ > ΑΔΒ.
+
+lisdem positis si trianguli rectanguli angulus ad
+uerticem positus non maior cst angulo comprehenso
+a recta uertices triangulorum coniungente rectaque
+cum basi angulum obtusum efficiente, latus trianguli
+rectanguli sub recto angulo subtendens ad latus ad
+
+1⁷ A basim perpendiculum minorem
+
+V rationem habet, quam trianguli
+
+obtusianguli latus sub angulo
+
+A έῖίῖ obtuso subtendens adlatus cum
+ΙΙ
+
+basi angulum obtusum efficiens,
+describantur iidem trianguli,
+et [ΑΓΒ non maior sit angulo ΓΔΒ. dico, esse
+l ΑΓτΓΒ<ΑΔτΛΒ.
+i quoniam [ΑΓΒ > ΑΔΒ, ut demonstratum est
+, [prop. XXXVII]‚ et [ΓΑΒ > ΔΑΒ, construatur
+r [ΑΔΗ -εΑΓΒ et [ΔΑΗ = ΓΑΒ; itaque trianguli
+¹ ΑΓΒ, ΑΔΗ aequianguli sunt. quare
+ΛΑ : ΑΓ-- ΗΑ : AB [Eucl. Vl, 4];
+
+, quipp. 24. ΓΑΒ] p‚ArBch‚ corr.m.2V. 25. ΔΑΗ] p,
+l AAHch‚corr.m.2V. ΑΔΗ] vp‚Heuan.V, ΑΔ c.
+
+14*
+
+ 
+

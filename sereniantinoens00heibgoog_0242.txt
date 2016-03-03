@@ -1,0 +1,48 @@
+na sncrrona corr. 217
+
+itaque [ΑΒΗ uno recto minor est3 reliqui igitur
+ΑΒΔ -1- ΑΒΗ maiores sunt tribus rectis. uerum
+[ΑΒΗ = ΑΓΔ; itaque [ΑΓΔ -Ι- ΑΒΑ tribus
+rectis maiores sunt. auferatur rectus ΛΑ Β Γ;
+Α ΓΔ -l- ΓΒΔ igitur duobus rectis maiores sunt.
+quoniam igitur [ΒΓΔ -l- A ΓΒ † ΓΒΔ duobus rectis
+maiores sunt, ΒΓΔ -Ι- ΓΔΒ -l— ΓΒΔ autem duobus
+rectis aequales [Eucl. I, 32], crit [ΑΓΒ > ΓΔΒ.
+
+XL.
+
+si in cono scaleno per uerticem planis compluribus
+secto in basibus parallelis trianguli aequicrurii ad eam
+partem uersus construuntur, a qua axis reclinatus est,
+triangulus aequicrurius per axem ductus triangulorum
+aequicruriorum‚ uti diximus, constructorum neque em-
+
+nium maximus est neque minimus omnium.
+sit conus, cuius axis
+sit A Β , basis autem
+circulus circum Β cen·
+
+trum descriptus, cem·
+
+Δ munis autem sectio plani
+
+per axem ad circulum
+
+perpendicularis circuli-
+
+que sit ΓΒΔ, et [ΑΒΔ
+
+minor sit recto, dice,
+
+triangulum aequicru-
+
+rium per axem ductum triangulorum aequicrurierum,
+
+qui bases inter puncta Γ, Β habentes construantur,
+neque maximnm esse omnium neque minimum.
+
+axis igitur aut minor cst radic basis aut ei aequalis
+aut maior.
+
+ 
+

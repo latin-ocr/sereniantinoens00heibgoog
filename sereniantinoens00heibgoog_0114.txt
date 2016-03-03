@@ -1,0 +1,51 @@
+DE SECTIONE CYLINDRI. 89
+
+ita quadratum diametri ellipsis AM ad quadratum
+diametri cum ea coniugatae, ut autem A& ε ΒΘ>< ΘΓ,
+ita quadratum diametri ellipsis AN ad quadratum
+diametri cum ea coniugatae [Apellen. l, 133 prop. XVII]‚
+erit etiam, ut AM diametrus ad diametrum con-
+iugatam, ita NA diametrus ad diametrum coniugatam.
+ergo AM, AN diametri sunt ellipsinm similium [def. 8];
+quod erat demonstrandum. '
+
+et etiam, si alias rectas rectae ZH parallelas
+duxerimus, uelut ΞΟ, et ab Ξ, 0 ad A ductas rectas
+ad Be produxerimus productisque parallelas in
+triangulo duxerimus, rursus aliae duae ellipses inter
+se similes construentur, et hoc in infinitum quod
+erat demonstrandum.
+
+⁴ XXVIII.
+
+Fieri potest, ut datus cylindrus conusue scalenus
+
+a partibus oppositis in infinitum duobus planis secetur,
+et ellipses similes efficiantur.
+
+primum sit in cylindro
+
+demonstrandum,ponaturque
+
+eadem figura, quae antea,
+
+et sit AH=AA3 itaque
+
+ΓΑ = ΗΓ [Euel. Ι, 4].
+
+quoniam igitur recta ab A
+
+ad ΓΒ ducta maior est
+
+utraque A F, ΓΗ omnibus-
+
+A que, quae a Γ inter puncta
+
+H, A cadunt, adparet, si
+
+a partibus oppositis duas rectas inter se aequales
+
+duxerimus, rectam a Γ ductam extra H casuram esse.
+
+ 
+

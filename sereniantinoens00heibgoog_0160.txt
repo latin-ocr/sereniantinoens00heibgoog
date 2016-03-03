@@ -1,0 +1,44 @@
+mi sacmom: eom. 135
+
+VIII.
+
+siin cono recto triangulus per axem ductus maior
+est omnibus triangulis extra axem commotis, axis
+coni radio basia minor non erit.
+
+sit uonna, cuius uertex sit A, axis auiam AB recta,
+basis auIem airadus circum Β centrum descriptus, ei
+triangulus per axem duc·
+tus ΑΓΔ maior omnibus
+triangulis in cono extra
+axem constructis. dico,
+AB radio minorem non
+
+esse.
+nam si fieri potest,
+sit minor, dueaturque in
+circulo ad ΓΔ perpendi-
+
+A' culatis ΒΕ. ei quoniam
+angulus ABE rectus est
+
+[Eucl. XI def. 3], recia
+
+puncta A, E coniungens
+maior esi radio BE
+[Eual. I, 19]. iiaque si
+ab A sub angulo ABE reaia inseritur radio aequalis,
+inber puncIa B, E cadei. inseraiur ΑΖ radio aequalis,
+et per Z rectae ΓΔ parallela ducatur H Θ, ducaturque
+BH3 itaque, ut in prop.V demonstratum est, trianguli
+
+ΑΒΖ, HBZ similes fiunt [Eucl. VI, 7], et latera
+correspondentia aequalia erunt, ei
+
+zA:AB=BH:HZ=PB:Hz.
+
+itaque AB >< ΒΓ = ΑΖ >< ΖΗ, h. e. triangulus per
+axem ductus aequalis est tn'angulo AH03 quod fieri
+
+ 
+

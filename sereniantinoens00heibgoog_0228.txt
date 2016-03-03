@@ -1,0 +1,39 @@
+na saonoua coru. 203
+
+ἶ eam partem uersus construuntur, ad quam axis in-
+* clinatus est, triangulorum autem aequicruriorum ita
+³ effectorum aliquis triangulo aequicrurio per axem ducto
+aequalis est, axis coni minor erit radio basis.
+
+sit conus scalenus, ouius uertex sit A, axis autem
+¹¹ AB ari partes Δ uersus inclinatus, basis autem cir·
+culus circum Β centrum descriptus, trianguli autem
+¹ ad circulum perpendicu-
+lariter per axem ducti
+basis sit ΓΒΛ, et ad
+
+ΓΔ in circulo perpendi-
+A culares ducantur BZ,
+EH, duceturque ΑΕ, et
+supponatur, triangulo per
+ΑΒ et 2ΒΖ ducto, hoo
+
+est [prop. XXH] tn-
+angulo aequicrurio per
+axem ducto, aequalem esse triangulum aequicrurium
+per EA et 2ΕΗ ductum. dico, axem BA radio
+minorem esse.
+quoniam [ΑΒΕ minor est recto, in plano trian-
+guli ABE ad ΓΛ perpendicularis ducatur ΒΘ, et
+quoniam ΕΑ > ΑΒ propter propositionem praeceden-
+tem [prop. XXXIV], [ΒΕΑ minor est recto [llucl
+Ι, 18]. uerum ΛΘΒΕ rectus est; itaque rectae ΘΒ,
+ΕΑ productae concurrent [Eucl. I αῐτ. 5]. concurrant
+in Θ. quoniam igitur triangulus aequicrurius per axem
+ductus aequalis est rectangulo AB >< BZ, triangulus
+autem aequicrurius per ΑΕ et 2ΕΗ ductus rectangulo
+AE>< ΕΗ [Eucl. Ι, 41], et trianguli aequicrurii inter
+se aequales sunt, erit etiam ΑΒ >< ΒΖ -- ΑΕ><ΕΗ;
+
+ 
+

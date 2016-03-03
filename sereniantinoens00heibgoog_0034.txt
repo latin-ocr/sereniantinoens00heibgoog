@@ -1,0 +1,36 @@
+Du ancnoris CYLINDRI. 9
+
+8. praeterea haee quoque definitio praemittenda,
+similes ellipses esse, quarum utriusque diametri eon·
+iugatae inter se eandem rationem habeant et ad aequales
+angulos inter se secent.
+
+I.
+
+Si duae rectae inter se tangentes duabus rectis
+inter se tangentibus, quarum utraque utrique est
+aequalis, parallelae sunt, rectae terminos¹ earum con-
+iungentes et ipsae aequales sunt et parallelae.
+
+sint duae rectae inter se tangentes AB, ΒΓ
+duabus rectis inter se tangentibus ΔΕ, ΕΖ parallelae,
+et sit AB = ΛΕ, ΒΓ -- ΕΖ, ducanturque ΑΓ, ΔΖ.
+dioc, rectas ΑΓ, ΛΖ aequales et parallelas csse.
+
+ducantur BE, ΓΖ, ΑΔ. quoniam AB rectae ΔΕ
+aequalis est et parallela‚ erit etiam [Eucl. I, 33]
+ΒΕ rectae ΑΔ aequalis et parallela. et quoniam ΒΓ
+rectae ΕΖ aequalis est ct parallela‚ erit etiam ΒΕ
+rectae ΓΖ aequalis et parallela. quare [Eucl. I, 30]
+ΑΔ rectae ΓΖ aequalis est et parallela. ergo etiarn
+
+[Eucl. I, 33] ΑΓ, ΛΖ aequales et parallelae3 quod
+erat demonstrandum.
+
+Il.
+
+Si cylindrus plano per axem secatur, sectio par-
+allelogrammum erit.
+
+ 
+

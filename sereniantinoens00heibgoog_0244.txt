@@ -1,0 +1,43 @@
+. ns suenonis cour 219
+
+ῖ primum sit minor. quoniam igitur AB radio
+ῳ minor est, radio aequalis inseratur ΑΕ, et per puncta
+. Β, Ε ad ΓΔ perpendiculares in circulo ducantur EZ,
+ΒΗ, anguloque ΑΕΒ aequalis construatur [ΕΒ Θ,
+et ducatur ΘΕ. quoniam igitur utraque Aa, ΒΘ
+, radio aequalis est, communis autem BE, et angulos
+Ὗ aequales comprehendunt, etiam reliqua reliquis ae-
+< qualia sunt [Eucl. I, 4]; trianguii igitur similes sunt.
+qnare EA: ΑΒ--ΒΘιΘΕ [nu01.V1‚4]. quoniam
+autem ΖΕ>ΕΘ et ΒΗ πΒΘ, erit [Eucl. V, 8]
+ΒΘεΘΕ>ΒΗεΖΒ uerum Bc:cE-—=EA:AB;
+quare ΕΛ : AB > ΒΗ : EZ. itaque [prop. I]
+AE><EZ>AB><BH,
+hoc est triangulus aequicrurius per ΑΒ ductus cuius
+basis est 2ΕΖ, maior est triangulo aequicrurio per
+axem duct03 itaque triangulus aequicrurius per axem
+ductus non est maximus omnium triangulorum, uti
+diximus, constructorum. demonstrauimus autem in
+prop. XXXVI in uniuersum, ne minimum quidem eum
+csse3 ergo neque maximus est omnium neque mi-
+nimus.
+
+XLI.
+
+Iam uero axis AB radio aequalis sit.
+[ΑΒΔ igitur, qui recto minor est, aut minor est
+dimidio recto autnon minor.
+i sit prius non minor dimidio, et per Α in plano
+ι
+
+i ΒΘ (pr.)] ch, Θ in ras. m. rec. V, infra scr. βθ m. 1ι, del.
+ιιι rec. 12. ΒΗ] ΒΘ p. ZE] mut. in HE p. 14. BH]
+ΒΘ τουτέστιν ἡ ΒΖ . ΕΖ] HE p. 15. EZ] ΕΗ p.
+
+‘¹ μεῖζον] corr. ex μεῗ ἕ ·
+τετάρτῳ p, δευτέρῳ Halley. 21. μέγιστ ν ἐστι] ιιι ras. p.
+
+ζονα ιιι. 1 o. BH BZp. 20. ἕκτῳ]
+
+ 
+

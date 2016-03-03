@@ -1,0 +1,57 @@
+DE sncmonss com. 205
+
+quare BA :AB =HE:ZB [Eucl. VI, 16] = HE:HB.
+
+quoniam igitur propter prop. XXXIII est
+ΒΑεΑΕ>ΒΘε ΘΕ,
+
+en't, ut BA: ΑΕ, ita ΒΘ ad rectam minorem quam
+
+ΘΕ, maiorem autem quam ΘΒ. sit igitur
+BA2AE7-2RMK,
+
+et per E rectae ΚΘ parallela ducatur EA eum ΒΘ
+
+in A concurrens. quoniam igitur
+
+BA: ΑΕ = ΒΘ : EX: BA: ΛΕ [Eucl. VI, 4I,
+
+erat autem BA: ΑΕ = ΕΗ : ΗΒ, erit etiam
+BA:AE=EH:HB.
+
+quoniam igitur duo trianguli ABE, HEB unum an-
+
+gulum uni angulo aequalem habent (nam rectanguli
+
+sunt), et circum alios angulos A, H latera propor-
+
+tionalia, reliquorumque angulorum uterque acutus est,
+
+trianguli ABE, ΗΕΒ similes sunt [Euel. VI, 7]. ita-
+
+que AB : BE ετ H E : ΒΕ [Eucl. VI, 4]3 quare
+
+AB = HE [Eucl. V, 9]. uerum ΕΗ radio minor est
+
+[Eu01.111,15]; quare etiam BA radio minor est. et
+
+Ἴ quoniam est [Eucl. Ι, 21] ΕΛ -I- AB> EA -Ι- ΑΒ,
+
+et EA : AB -= EA : AB, erit etiam componendo
+
+[Bucl. V, 18] EA -Ι- ΛΒ : BA = EA -1- ΑΒ : BA et
+
+permutando [Euel. V, 16]; est autem ,
+
+’ EA†AB>EA†AB;
+quare etiam AB> BA. demonstrauimus autem, esse
+AB radio minorem3 quod erat demonstrandum.
+
+AB p. Post ἐναλλάξ add. ὡς συναμφότερος ἡ EAB πρὸς
+I συναμφότερον τὴν ΕΑΒ, οὕτωςὴ BA πρὸς BA p. Is] Halley‚
+' mvn, δὲὴρ. 23. EAB]Be00rr. p. 24. Post κέντρου
+add. πολλῷ ἄρα ἡ ΑΒ ἐλάττων ἐστὶ τῆς ἐκ τοῦ κέντρου p, fort.
+recte. 25. ὅπερ ἔδει δεῖξαι] om. p.
+
+ 
+

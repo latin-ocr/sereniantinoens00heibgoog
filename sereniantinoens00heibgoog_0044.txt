@@ -1,0 +1,41 @@
+DE SECTIONE CYLINDRI. 19
+
+ducantur in cuculo A diametri ΕΖ, ΗΘ, et per
+utramque E Z, H Θ axemque plana ducantur cylindrum
+secantia3 sectiones igitur efficient parallelogramma
+[prop. Ill. sit ΓΔ communis ‘sectio
+parallelogrammi ΕΚ planique ΓΞΛ,
+N Ξ autem parallelogrammi HA
+planique ΓΛΞ sectio communie.
+quoniam igitur planum ΓΞΔ cir-
+culo A parallelum est secaturque
+plano ΕΚ, reeta ΓΛ rectae ΕΖ
+parallela est [Eucl. XI, 16]. eadem
+de causa autem etiam N Ξ rectae
+ΗΘ parallelo est. quoniam igitur
+BA utrique ΓΕ, ΛΖ parallelo
+est, et AE= ΑΖ, erit etiam
+⁸ ΓΜ = MA. similiter quoniam HA = Aa, erit
+etiam MN = ΜΞ. et quoniam ΑΕ -- ΑΗ, erit etiam
+MF= MN; itaque ΜΓ, ΜΛ, ΜΝ, ΜΞ omues inter
+se aequales. similiter autem etiam, si aliae ducuntur,
+omnes rectae, quae ab M ad lineam ΓΞΛ adcidunt,
+aequales inuenientur. ergo sectio ΓΞΔ circulus est
+[Eucl. Ι def. 15]. ’
+eam autem etiam c'entrum habete in recta ΑΒ,
+adparet3 nam punctum Μ, quod in tribus planis po-
+situm est, in AB communi parallelogrammorum sectione
+est, hoc estin axe.
+
+VI.
+
+Si cylindrus obliquus plano per axem secatur ad
+basim perpendiculari et simul alio plano secatur,
+
+-ἶΒᾞΞ-Ᾱ] Ν addm. 1 p. praeapte] om. c. 19. ἐστίν]
+
+ἐστὶ V. ΓΕΔ] corr. ex ΓΖΔ ιιι.. 1 c, rsAN p. ,
+2*
+
+ 
+

@@ -1,0 +1,35 @@
+nn sacriora orimum. 113
+
+sit circulus Z, axis autem ZB, et per ΓΖ axemque
+planum ducatur in cono efficiens ΒΗΘ triangulum
+per axem positum, et ad ΓΖ perpendicularis ducatur
+ΓΚ in plano circuli Z posita, per ΓΚ autem et
+utramque ΓΔ, ΓΕ plana ducantur conum secontia
+efficiantque per sectionem in superficie coni lineas
+AAM, ΝΕΞ, iu plano autem trianguli ΒΗΘ rectas
+ΛΓ, Nn diametri igitur sectionum AAM, ΝΕΞ
+sunt rectae AM, N Ξ. iam ad diametros AM, Ν Ξ
+ordinate ducantur A 0, ΕΠ producanturque ad alteram
+partem superficiei ad Ρ, Σ. quoniam igitur recta ΓΛ
+lineam AAM in puncto A contingit, ordinateque ducta
+est Ao, erit AI': ΓΜ = AO : OM [Apollon. l, 36];
+et eadem de causa erit NF:FE=NH:HE;
+itaque propter propositionem praecedentem recta Ι
+puncta 0, Π coniungens producta per uerticem ueniet.
+ducatur igitur ΟΠΒ. et quoniam utraque ΒΣ, AP
+rectae ΓΚ parallela est, AP et ΕΣ inter se parallelae
+sunt [Eucl. XI, 9] et in uno plano positae. itaque ·
+planum per ΒΠΟ et ΕΣ, AP productum in super-
+ficie coni sectionem efficiet triangulum [Apollon.1‚a];
+puncta igitur Ε, A in superficie coni posita in latere
+sunt trianguli triangulum ΒΗΘ secundum rectam
+ΒΗΘ secantis. eodem autem modo in omnibus
+contingentibus idem euenire demonstratur, etiam in
+rectis in Ρ, Σ contingentibus. ergo omnes rectae a
+Γ superficiem conicam contingentes in latera unius
+trianguli cadunt; quod erat demonstrandum.
+
+Serenus Antinoensio, ed. Helberg. 8
+
+ 
+

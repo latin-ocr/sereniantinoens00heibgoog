@@ -1,0 +1,30 @@
+nn suerroun ommuni. 81
+
+aequale rectae ΒΚ adplicuerimus figura quadrata
+excedens, latus excessus erit > KZ, scd < KH,
+propter propositionem praecedentem [prop. XXV} sit
+igitur K Λ latus excessus, et per A rectae ΗΓ parallelo
+
+ducatur ΛΜ, ducanturque ΜΒ, ΜΚ, et fingatur
+conus, cuius uertex sit punctum M, basis autem A
+circulus et triangulus per axem positus BKM.
+itaque si ctiam conum eo plano sectum finxerimus, a
+quo effecta est diametrus sectionis cylindri EA, in
+cono quoque erit sectio, cuius diametrus N Ξ. quoniam
+igitur quadrato ΚΗ2 aequale ad ΒΚ adplicatum est
+spatium quadrato K ΛΞ excedens, eric'BAxA K = K H ².
+ism quoniam ΔΒ, ΚΓ inter se parallelae sunt,
+parallelae autem etiam Δ Ζ, ΜΛ, ΓΗ, erit
+AZ: ZB = ΓΗ : HK [Eu01.1,29; VI, 4];
+quare etiam
+AZ²:ZB²=FH²:KH²==MA²:BA><AK.
+
+uerum 212²: ΖΒ2 == M : ΒΚἱέ [Eucl. VI, 23 V, 18]
+siue quadratum diametri ellipsis cylindri EA ad
+quadratum diametri coniugatae [prop. IX extr.], et
+ut ΜΛῖ : BA >< AK, ita quadratum diametri
+
+Soranus Antinoansis, sd. Heibarg. 6
+
+ 
+

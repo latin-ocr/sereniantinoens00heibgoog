@@ -1,0 +1,37 @@
+⁴DE sncrloun CYLINDRI. 85
+
+ducanturque ΕΓ, ΓΖ; itaque nr=zr[nu01.1‚4].
+si igitur ita, ut traditum est, plana per ΓΕ, ΓΖ
+duxerimus, cylindrum secabunt. secent efficiantque
+ellipses ΕΗΓ, ΖΘΓ. dicO, eas similes esse.
+quomam emm
+ΕΓ2 : ΓΑ2
+-- ΖΓ ² : ΓΑ ²
+[Eucl. V, 7]‚ et
+ΕΓ2 : ΓΑ2 est ⁸
+ratio quadrati dia-
+metri sectionis
+ΕΓ ad quadra-
+= tum diametri cum
+ea coniugatac,
+¹ w : ΓΑ2
+autem quadrati
+diametri sectionis ΖΓ ad quadratum diametri cumea
+coniugatae [prop. IX extr.]‚ erit etiam, ut diametrus
+ΕΓ ad diametrum cumea coniugatam, ita ΖΓ dia-
+metrus ad diametrum cum ea coniugatam. uerum
+etiam ad aequales angulos diametri in utraque secantur,
+ut saepe demonstratum est. ergo ellipses ΕΗ Γ, ΖΘΓ
+inter se similes sunt [def. 8].
+et etiam, si alias rectas aequales ad utramque
+partem puncti Λ absumpseris, rursus aliae duae ellipses
+inter se similes construentur.
+notandum autem, in cylindro ellipses ex eadem
+parte similes necessario etiam aequales esse, quia ratio
+diametrorum ad eandem rectam ΑΓ eadem ert.
+
+ἑκατέρᾳ] ἑκάτεραι ch. 28, Post ἀλλήλαις add. καλ τοῦτο
+ἐπ’ ἄπειρον p¹ 25. διά] vop, -d enan. V.
+
+ 
+

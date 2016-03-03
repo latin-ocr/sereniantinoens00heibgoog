@@ -1,0 +1,58 @@
+na esemona eom. 127
+
+nam in figura proposita [p. 125] trianguli ΑΓΛ,
+ΑΕΖ similes sint. dieo, eosdem aequales esse.
+
+quoniam enim A Γ : ΓΔ = AE: ΕΖ, permutando
+2 [Euel. V, 16]. et ΓΑ = EA ς itaque etiam ΓΔ = EZ.
+¹ trianguli autem in aequalibus basibus positi in conis
+rectis aequales sunt [prop. III]; ergo A ΓΛ = ΑΕΖ.
+
+V.
+
+si conus rectus per uerticem secatur planis, uno
+
+per axem, aliis extra axem, et axis coni non minor
+
+est radio basis, triangulorum in cono ortorum maxi-
+mus est triangulus per axem.
+
+sit conus, cuius uertex sit A,
+
+basis autem circulus circum Β
+
+centrum descriptus, axis autem
+
+A Β. cono uero per uerticem
+
+secto trianguli effecti sint per
+
+‹ axem A ΓΑ, extra axem autem
+
+ΑΕΖ, ponaturque ΕΖ rectae
+
+ΓΔ ΡῆτειΠεΙα, axis autem, siue
+
+recta AB, ne sit <ΒΓ. dioc,
+
+A esse Δ ΑΓΔ > ΑΕΖ.
+
+ducatur BE, et a Β ad ΕΖ
+
+perpendicularis ducatur Β Η ;
+
+ΕΖ igitur in H induas partes
+
+aequales secta est [Eucl. III, 3}
+
+ducatur AH; ΑΗ igitur ad ΕΖ perpendicularis est;
+
+nam EAZ aequicrurius est. quoniam igitur AB radio
+
+ΒΕ minor nonest, uerum ΕΗ <ΒΕ, erit AB>EH.
+
+20. ΑΓΔ] p, ΑΓ Vc. 22. κάθετος- 23. τὴν ΕΖ] ἐπὶ
+τὴν ΕΖ κάθετος ἤχθω p. 26. EA Ζ] ΑΕΖ p.
+
+ 
+

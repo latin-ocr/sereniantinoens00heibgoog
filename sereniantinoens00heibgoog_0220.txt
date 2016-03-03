@@ -1,0 +1,38 @@
+‚nn suenone coru. 195
+
+circum B centrum descriptus, trianguli autem ed
+circulum perpendiculariter per axem ducti basis sit
+ΓΒΔ, et [ΑΒΔ minor sit recto, ita ut AB adportes
+A uersus inclinata sit, et AB non minor sit radio
+dico, triangulum cequicmrium per AB ductum maxi-
+= mum esse triangulorum aequicruriorum‚ qui efficiantur
+inter puncta B, Δ beses habentes.
+sumatur in BA punctum
+¹ aliquod E, et ed ΓΔ per-
+pendiculares in circulo du-
+cantur BZ, EH, ducatur-
+que AE.
+BA igitur recta ΑΕ sut
+minor est autnon minor.
+iam supponatur, non esse
+BA <An quoniam igitur
+non est BA<AE‚ sed
+ΕΗ < ΒΖ [Eucl. IH, 15]‚
+erit AB:AE>EH:BZ;
+itaque
+AB >< ΒΖ > Α Ε >< ΕΗ
+[prop. Ι]. uerum reetangulo AB >< ΒΖ aequalis est
+triangulus basim habens 232 et altitudinem AB
+[Euol. Ι, 41], hoc est [prop. XXII] triangulus aequi-
+erarius per exem ductus, rectungulo autem AE >< ΕΗ
+aequalis est triangulus, qui busim hebet 2311, elti-
+tudinem autem ΑΕ [Eucl. 1,41]; itaque triangulus
+aequicrurius per axem duetus maior est triangulo
+aequicrurio per ΑΕ ducto. similiter autom demon-
+suatur, etiam omnium triangulorum inter B, A bases
+
+habentium maximum esse triangulum per exem ductum.
+13*
+
+ 
+
